@@ -273,6 +273,7 @@ namespace Lab_7
 
             return result;
         }
+        //коміт 2
         public static void FindObject()
         {
             Console.WriteLine("Select a characteristic to search for (price/stock quantity): ");
