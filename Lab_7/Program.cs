@@ -362,7 +362,7 @@ namespace Lab_7
 
             return n;
         }
-
+        //коміт 1
         public static double CheckPrice()
         {
             double price;
